@@ -1,0 +1,15 @@
+Dataset,Model,Jensen–Shannon Divergence (Distance) (↓),Jensen–Shannon Divergence (Gradius) (↓),Jensen–Shannon Divergence (Duration) (↓),Jensen–Shannon Divergence (Periodicity) (↓),Jensen–Shannon Divergence (Freq.) (↓),Jensen–Shannon Divergence (Location) (↓),Transition Statistics (↓)
+GeoLife,GRU,0.0074,0.0630,0.0582,0.0839,0.0139,0.0182,0.0444
+GeoLife,LSTM,0.0118,0.0594,0.1186,0.1197,0.0139,0.0091,0.0501
+GeoLife,Transformer,0.0099,0.0460,0.1234,0.1413,0.0173,0.0175,0.0618
+GeoLife,VAE,0.4350,0.6785,0.2660,0.6900,0.1930,0.0414,0.0647
+GeoLife,MoveSim,0.0039,0.0447,0.0693,0.1875,0.0207,0.0216,0.0539
+GeoLife,SeqGAN,0.0076,0.1324,0.0541,0.3849,0.0208,0.0273,0.0599
+GeoLife,Geo-Llama,0.0010,0.0120,0.0014,0.0009,0.0173,0.0161,0.0267
+Jordan,GRU,0.0093,0.1703,0.0617,0.1150,0.0173,0.0000,0.0085
+Jordan,LSTM,0.0138,0.1716,0.1084,0.1842,0.0182,0.0000,0.0071
+Jordan,Transformer,0.0337,0.2642,0.1608,0.3590,0.0236,0.0000,0.0060
+Jordan,VAE,0.5347,0.6819,0.2817,0.6931,0.2505,0.0249,0.0127
+Jordan,MoveSim,0.0089,0.0474,0.5191,0.0948,0.0207,0.0473,0.0275
+Jordan,SeqGAN,0.0063,0.1584,0.4637,0.0820,0.0277,0.0034,0.0109
+Jordan,Geo-Llama,0.0010,0.0689,0.0231,0.0181,0.0139,0.0000,0.0099

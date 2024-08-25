@@ -1,0 +1,8 @@
+__pycache__
+prompt_traj_data/
+save_models/
+saved_models/
+*.ipynb
+slurm_logs/
+*.npy
+synthetic_traj_data/
