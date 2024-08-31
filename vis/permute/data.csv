@@ -1,5 +1,0 @@
-Dataset,Constraint,Distance,Gradius,Duration,Periodicity,Freq.,Location,Overall
-GeoLife,w/o Permute,0.0010,0.0120,0.0014,0.0009,0.0173,0.0161,0.0267
-GeoLife,w/ Permute,0.0010,0.0138,0.0003,0.0032,0.0208,0.0128,0.0254
-MobilitySyn,w/o Permute,0.0010,0.0689,0.0231,0.0181,0.0139,0.00000001,0.0099
-MobilitySyn,w/ Permute,0.0011,0.0733,0.0066,0.0590,0.0104,0.00000001,0.0089

@@ -1,5 +1,0 @@
-Dataset,Constraint,Distance,Gradius,Duration,Periodicity,Freq.,Location,Overall,Top_K-C
-GeoLife,w/ RI,0.0022,0.0537,0.0021,0.0686,0.0243,0.0177,0.0299,0.0406
-GeoLife,Sample w/ Permute,0.0007,0.0098,0.0014,0.0016,0.0000,0.0061,0.0209,0.0384
-MobilitySyn,w/ RI,0.0021,0.1264,0.0195,0.1070,0.0243,0.0000,0.0073,0.0152
-MobilitySyn,Sample w/ Permute,0.0021,0.0704,0.0217,0.1784,0.0278,0.0000,0.0073,0.0154
