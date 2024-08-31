@@ -1,7 +1,0 @@
-Dataset,Constraint,Distance,Gradius,Duration,Periodicity,Freq.,Location,Overall,Top_K-C
-GeoLife,w/ 1-2 Events,0.0011,0.0132,0.0011,0.0028,0.0208,0.0174,0.0295,0.0581
-GeoLife,w/ 3-4 Events,0.0018,0.0173,0.0010,0.0300,0.0243,0.0187,0.0220,0.0380
-GeoLife,w/ 5 More Events,0.0029,0.0295,0.0029,0.0873,0.0173,0.0140,0.0245,0.0459
-MobilitySyn,w/ 1-2 Events,0.0024,0.0902,0.0246,0.2038,0.0278,0.0000,0.0083,0.0188
-MobilitySyn,w/ 3-4 Events,0.0036,0.0931,0.0323,0.3288,0.0287,0.0000,0.0098,0.0208
-MobilitySyn,w/ 5 More Events,0.0035,0.0801,0.0327,0.3087,0.0287,0.0000,0.0085,0.0175
