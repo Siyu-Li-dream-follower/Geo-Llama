@@ -1,3 +1,3 @@
-Official Code Implementation Of AAAI2025 Paper Submission:
+Official Code Implementation Of the Paper:
 
 Geo-Llama: Leveraging LLMs for Human Mobility Trajectory Generation with Spatiotemporal Constraints
